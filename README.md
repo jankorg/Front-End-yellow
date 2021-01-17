@@ -1,7 +1,7 @@
 # Front-End-yellow
 Front End Yellow
 
-This project contains a code challenge to solve a problem solved by MELI, this project was created for development environment
+This project contains a code challenge to a problem propoused by MELI, this project was created for development environment
 
 # Install
 
