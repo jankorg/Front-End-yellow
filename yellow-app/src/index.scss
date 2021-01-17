@@ -1,0 +1,49 @@
+
+
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab|Open+Sans:400italic,700italic,400,700);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap);
+@import 'styles/variables';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: $roboto-slab;
+  font-weight: normal;;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 , li{
+  font-family: $open-sans;
+  font-weight: normal;
+}
+p {
+  font-family: $open-sans;
+  font-weight: normal;
+  color: var(--color-black);
+}
+
+.button {
+  font-family: $open-sans;
+  font-weight: bold;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: var(--color-black);
+}
+
+a:active {
+  text-decoration: none;
+}

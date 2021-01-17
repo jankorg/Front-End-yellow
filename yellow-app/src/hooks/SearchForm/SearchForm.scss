@@ -1,0 +1,30 @@
+.SearchForm {
+    text-align: left;
+    .search-input{
+        width: 70%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        color: var(--color-gray1);
+        font-size:18px;
+        ::placeholder { 
+            color: var(--color-gray3);
+            opacity: 1; 
+          }
+    }
+    .nav-search-btn {
+        background-repeat: no-repeat;
+        background-image: url('../../assets/images/ic_Search.png');
+        background-position: center;
+        background-clip: border-box;
+        width: 49px;
+        height: 49px;
+        text-decoration: none;
+        cursor: pointer;
+        overflow: hidden;
+        text-indent: 126%;
+        margin-left: -49px;
+
+      }
+    
+}
