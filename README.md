@@ -11,17 +11,13 @@ Run "npm install --prefix yellow-app" command
 # build 
 Run "npm run build" 
 
-# Run server
+# Run server and run client
 
 Run "npm start"
 
-# run client
-
-Run "npm run start-client"
-
 # browse
 
- Client runs on  "http://localhost:3000/"
+ browse to see Client using  "http://localhost:3000/"
 
  Api runs on  "http://localhost:3002/api"
 
